@@ -8,15 +8,15 @@
 - notes go here
 
 ## pitch
-- My research topic is:
-- My research question is:
-- I expect to work with the following *materials*:
-- I plan to *process* these materials by:
-- I plan to *present* these materials by:
-- My final submission will take this form: 
-- This project is intended to engage these audiences and communities:
-- I bring the following existing knowledge and/or skills to the project: 
-- In order to do this project, I need to learn: 
+- My research topic is: Tracking movement of Black people in Oregon post Civil War, redlining, and now during environmental injustice. 
+- My research question is: How have laws during the post civil era, redlining, and environmental injustice impacted the way that Black people move in the state of Oregon? Is redlining the reason why Black people are experiencing environmental injustice?
+- I expect to work with the following *materials*: I plan to gather a collection of research and studies that have tracked the movement of Black people since the post civil war era and where Black people were placed during redlining in Oregon. I plan to combine these materials in order to understand the displacement of Black indivduals in Oregon, and if this displacement is the reason why Black people in this state are placed in areas with bad air quality because of factories/industries that contribute to climate change and harming the surrounding environment.
+- I plan to *process* these materials by: These materials will be processed by reading and anazlyzing their content, and pulling out important information that contributes to my research question.
+- I plan to *present* these materials by: My goal is to present these materials by using an interactive map that follows the three big moments of movement I want to explore (post civil war era, redlining, and now). For the now part of the map I also plan to use data visualization in order to show the disproportionate amount of Black people living near harmful industries or environments harmed by pre-exisiting industries. 
+- My final submission will take this form: It will take the form of an interactive map.
+- This project is intended to engage these audiences and communities: This project will engage those interested in this topic.
+- I bring the following existing knowledge and/or skills to the project: As someone studying journalism, I have had to anazlyze data serval times before and present it in a way that it helpful to my audience. Also, as a Black person, I feel that it is important for those to be educated on the harmful laws and practice that have impacted people within my community and other marganalized communities.
+- In order to do this project, I need to learn: I will need to learn how to create an interactive map that would present the above information, and make the data I present look appealing. Aethestics matter.
 
 ---
 # week 4 
