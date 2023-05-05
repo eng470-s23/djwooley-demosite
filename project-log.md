@@ -24,17 +24,18 @@
 - notes go here
 
 ## search log
-- search log goes here
-
+- search 1,2: google search  "exclusion Laws in Oregon" -> OPB article -> Oregonecyclopedia.org and same OPB article-> Washington Post article
+- search 3: google scholar search "Black people" "19th century Oregon"-> JSTOR journal article 
+- search 4:
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
 - *at least one primary (literary or archival) source or dataset you are studying or examining;* 
 - *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
-1. source #1
-2. source #2
-3. source #3
+1. Brown, DeNeen. “When Portland Banned Blacks: Oregon's Shameful History as an 'All-White' State.” The Washington Post, WP Company, 28 Oct. 2021, https://www.washingtonpost.com/news/retropolis/wp/2017/06/07/when-portland-banned-blacks-oregons-shameful-history-as-an-all-white-state/. 
+2. Nokes, Greg. “Black Exclusion Laws in Oregon.” The Oregon Encyclopedia, https://www.oregonencyclopedia.org/articles/exclusion_laws/#.ZFV7f-zMKw1. 
+3. Taylor, Quintard. “Slaves and Free Men: Blacks in the Oregon Country, 1840-1860.” Oregon Historical Quarterly , 1982. 
 4. source #4
 5. source #5
 6. source #6
