@@ -79,18 +79,18 @@
 ## annotated bibliography, continued
 
 ### source 4 annotation
-- citation: 
-- summary: 
+- citation: Gartland Mummery, Lisa. "Understanding and Mitigting Heat in Urban Areas." Taylor and Francis, 2008. 
+- summary: So far, I think it is best that I utilize the first two chapters of the text. The first chapter defines a heat island as, a 'reverse oasis' where air and surface temperatures are much higher than the surrounding areas. This chapter also points out the characteristics of a heat island and what impacts they have on the communities they affect. The second chapter 
 - potential use for project: 
 
 ### source 5 annotation
-- citation: 
-- summary: 
+- citation: Smith, Greta. "Congenial Neighbors: Restrictive Convenants and Residential Segregation in Portland, Oregon." Oregon Historical Society, 2018
+- summary: In this article, Smith explains exclusionary convenants that made it hard for Black people in Portland (and other cities in Oregon) to have access to housing. Exclusionary convenants were put in place by the developers or owners of a housing building. Many white people in Oregon used this practice in order to "protect" their neighborhoods and their property investments. This practice also made it hard for Black people and other people of color to own property in the city. 
 - potential use for project: 
 
 ### source 6 annotation
-- citation: 
-- summary: 
+- citation: Williams, Kale. "Historically racist housing policies excaberating climate change effects in low-income Portland neighborhoods." The Oregnian, 2020
+- summary: This news aricle from 2020 also highlights the racist housing practices that took place in Oregon and the exclusionary laws. However, this article brought forth a study done by a student at PSU that proves how these practices are impacting people living within a community today. The people living within this community are suffering from heat islands. The article also talks about solutions that can help fix the problem. 
 - potential use for project: 
 
 ### source 7 annotation
