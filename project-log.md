@@ -104,23 +104,21 @@
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
+- Originally I thought I planned to use all of the information I gather from my research to create an interactive map that shows the different places that Black people were forced to live and how the environment changed overtime as climate change (and other factors that impact an entire communities health, like building toxic power plants near residential areas) got worse. Now I think it would be more  effecient for me to create an interactive timeline that almost compares or contrast the quality of living that Black people are forced to live in. I also think creating a timeline would help show how long these issues have been issues, but were (probably) never fixed. 
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- I plan to use Timeline JS in order to make my timeline. This is the best technology for my project because it is free and I believe I need authorization to use it, so it shouldn't take time away from the project. Also the fact that it seems a little straightforward to use. I do not have to download a lot of apps onto my computer in order to use. I can just use the spreadsheet on google. 
 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
-
+- I feel that my projection would be intended for both academics interested in environmental injustices and the history of it, and the general public who may have the same interests as those academics and want to learn more. As I do my research I am learning things that I did not know before. The most obvious one being, that I did not know that racist laws and housing codes contributed to people living in horrendious living conditions. These horrendious living conditions are created by other failures of the city and climate change. To, me the interconnectiveness of all of these issues is crazy and important for people to learn about which is why I think the members of the public is a part of my audience. 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
-
+- I think that I need to actually carve out the time to work on this project. I have been struggling the most with time management and also trying to find the correct research that works best for my research qurstion. I underestimated how intimidating it can be to research and gather information that is relevant to what I am trying to explore with this project. Since I plan on using Timline JS, I need to start figuring out the logistics of the site (it seems straight forward). I have Professor Burkert to use as a resource if I ever get into a moment when I feel stuck again or am confused about Timeline JS. 
 ---
 # week 7
 ## notes
