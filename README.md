@@ -39,4 +39,8 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Credits and Acknowledgments
 
-This is where you'll acknowledge those to whom your project is indebted beyond your named collaborators and the sources on your bibliography.
+This project could not have happened without the plethora of sources provided to me. I would like to thank last spring's ENG 470 class for the research that provided in their Environmental Justice project. A lot of the information for my project was gathered from the research they done. I would also like to acknowledge Professor Burkert and Sophia Polvacih. They helped me narrow done my original big idea to something more focused and specific. I would aslo like to thank the several librarians who have helped me gain access to books that had to be specially ordered for this project. 
+
+Since this project is presenting the many issues of redlining and how it has affected the Black communtiy on an enviromental scale, I would like to acknowledge the many families not only in Portland, but across the country that are still impacted by the reacist descions made by policymakers no longer alive today. This topic can be very sensitive for some, but the work needs to be done in order to move forward as one community of people. I hope this project is able to do that.
+
+I would like to acknowledge that most of this project and research is based on the Chinook land wrongfully taken from them by pioneers in the 1800s. This research was gathered on their land, and is about their land.
