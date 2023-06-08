@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minima
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme: minima 
 
 # Setup
 title:  "The Effects of Redlining on the Black Community of Portland"             
