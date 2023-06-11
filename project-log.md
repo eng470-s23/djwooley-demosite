@@ -1,4 +1,4 @@
-## Pitch
+
 
 - My research topic is: Tracking movement of Black people in Oregon post Civil War, redlining, and now during environmental injustice. 
 - My research question is: How have laws during the post civil era, redlining, and environmental injustice impacted the way that Black people move in the state of Oregon? Is redlining the reason why Black people are experiencing environmental injustice?
