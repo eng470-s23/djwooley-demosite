@@ -3,8 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 # Setup
-title:  "The Effects of Redlining on the Black Community of Portland"             
-tagline:             
-description:         
+title:  ENG 470 Research Project                          
+description:  The Effects of Redlining on the Black Community of Portland       
 url:     http://eng470-s23.github.io          
 baseurl:   /djwooley-demosite/            
