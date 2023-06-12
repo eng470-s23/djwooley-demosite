@@ -35,3 +35,5 @@ Smith, Greta. "Congenial Neighbors: Restrictive Convenants and Residential Segre
 Williams, Kale. "Historically racist housing policies excaberating climate change effects in low-income Portland neighborhoods." The Oregnian, 2020
 
 Voelkel, J., and V Shandas, 2017. Towards Systematic Prediction of Urban Heat Islands: Grounding measurements, assessing modeling techniques. Climate 5(2): 41.
+
+Voelkel, J., D Hellman, R Sakuma, and V Shandas, 2018. Assessing Vulnerability to Urban Heat: A Study of Disproportionate Heat Exposure and Access to Refuge by Socio-Demographic Status in Portland, Oregon. International Journal of Environmental Research and Public Health, 15(4), 640.
