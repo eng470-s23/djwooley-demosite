@@ -8,19 +8,9 @@
 4. Author: DJ Wooley
 
 ## Data Access & Sharing
-1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
-3. Was data derived from another sourse, if so where?
-4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
+1. I have chose to license this data under the GNU General Public Use License
+2. If anyone feels compelled to use any data gathered (outside of the bar graphs I have created) they need to cite that data correctly. ***I am not the creator of those data sets***
 
-## Methodological and Data-specific Information
-1. Description of methods for data collection and processing
-2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
 
 ## Credits and Acknowledgments
 
