@@ -14,12 +14,13 @@ Redlining is defined as a discriminatory practice purposely denying services and
 
 Redlining has been directly linked to the racial wealth gap that is relevant today, along with a plethora of other racial economic disparities. Some redlined neighborhoods have done good for themselves by creating their own loan companies. However, food insecurity and heat islands, two factors of enivonmental injustice, still exist in all of these communities. While looking through this site and the research I have gathered, I would like my audience to think about their own neighborhoods, and if any of these topics appear.  
 
-### What is a Food Desert? 
-<sub>click the headline to jump to data on food deserts in Portland</sub>
+### [What is a Food Desert? ](food-desert.md)
 
 A food desert is classified as an area where the residents have limited access to healthy affordable food. Typically, these neighborhoods are overran with convience and liquor stores and fast food resturants that are within walking distance while the grocery store can be difficult to get to. A lot of the residents in these areas identify as low-income or working class families who may not have cars, making it exptremely diffucult for them to get to their local supermarket.   
  
 (food desert image foes here)
 
-In 2019 the Willammete Weekly newspaper identified a total of six food deserts in Portland. (include screenshot of article?)
+**<sub>click the headline to jump to data on food deserts in Portland</sub>**
+
+
 
