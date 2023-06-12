@@ -12,7 +12,13 @@ Redlining is defined as a discriminatory practice purposely denying services and
 
 Once viewing the map below, there would be colored coded zones. City officials across the country used these colors to zone neighborhoods to determine their level, or grade, of desirability:
 
-*$${\color{green}Green \space Zones}$$ : 
+* Green (grade A) zones are neighborhoods most desirable for investment. The residents of these neighborhoods were white upper-class people.
+
++ Blue (Grade B) zones are neighborhoods that were still desireable for investment, but were not as attractive as grade A zones. In the zoning map of Portland, it appears that these zones were used to seperate the red and yellow zones from the green zones.
+ 
+* Yellow (Grade C) zones are neighborhoods that should probably not be invested in, or closely watched due to the influx of racial and ethnic minorities moving in. 
+
++ Red (Grade D) zones are neighborhoods considered "hazaradous" for investment. The residents in these neighborhoods were mostly low income racial and/or ethnic minorities.
 
 [Check out the New Deal Era Redlining Map of Portland. (courtesy of the University of Richmond's Digital Scholarship Lab](https://dsl.richmond.edu/panorama/redlining/#loc=12/45.521/-122.729&city=portland-or)
 
