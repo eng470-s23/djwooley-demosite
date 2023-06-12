@@ -6,6 +6,7 @@
 2. [Abstract](https://github.com/eng470-s23/djwooley-demosite/blob/main/white-paper.md#abstract)
 3. Dates of Data Collection: 2023/04/01-2023/06/09
 4. Author: DJ Wooley
+5. [License](license.md)
 
 ## Data Access & Sharing
 1. MIT License
