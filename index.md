@@ -4,7 +4,7 @@
 
 For this project, I am interested in exploring the long lasting impacts of redlining on the Black community in Portland. With that being said, the content of this project may be too much for some people that are currently experiencing the effects of environmental racism. In no way is this project meant to harm these indivduals. The purpose of this project is to raise more awareness to these issues in order for them to be fixed. 
   
-[about this project](white-paper.md)   |  [the process](project-log.md)  |   [presentation](presentation.pptx)   |  [data management](data-management.md)   
+[about this project](white-paper.md)   |  [the process](project-log.md)  |   [presentation](presentation.pptx)   |  [data management](data-management.md)   | [ackowledgements](https://github.com/eng470-s23/djwooley-demosite#credits-and-acknowledgments)  
  
 ## What is Redlining? 
  
@@ -16,9 +16,7 @@ Redlining has been directly linked to the racial wealth gap that is relevant tod
 
 ### [What is a Food Desert? ](food-desert.md)
 
-A food desert is classified as an area where the residents have limited access to healthy affordable food. Typically, these neighborhoods are overran with convience and liquor stores and fast food resturants that are within walking distance while the grocery store can be difficult to get to. A lot of the residents in these areas identify as low-income or working class families who may not have cars, making it exptremely diffucult for them to get to their local supermarket.   
- 
-(food desert image foes here)
+A food desert is classified as an area where the residents have limited access to healthy affordable food. Typically, these neighborhoods are overran with convience and liquor stores and fast food resturants that are within walking distance while the grocery store can be difficult to get to. A lot of the residents in these areas identify as low-income or working class families who may not have cars, making it exptremely diffucult for them to get to their local supermarket.
 
 **<sub>click the headline to jump to data on food deserts in Portland</sub>**
 
