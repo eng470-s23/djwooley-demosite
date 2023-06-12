@@ -20,6 +20,7 @@ A food desert is classified as an area where the residents have limited access t
 
 **<sub>click the headline to jump to data on food deserts in Portland</sub>**
 
-### What is a Heat Island?
+### [What is a Heat Island?](heat-island.md)
 
-A heat island is an extreme urban heat event that occurs when an area has no natural shading to deflect the heat from the sun. These areas have little to no trees to provide shading or grass which helps cool the area down. This leaves the asphalt covered roads and buildings made from materials that do not deflect heat exposed to the sun.
+A heat island is an extreme urban heat event that occurs when an area has no natural shading to deflect the heat from the sun. These areas have little to no trees to provide shading or grass which helps cool the area down. This leaves the asphalt covered roads and buildings made from materials that do not deflect heat exposed to the sun. Typically, heat islands are in areas where the population identifies as low income and Black or Brown. Scientists and urban planners have known about heat islands since the 19th century. 
+**<sub>click the healdline to jump to data on heat islands in Portland</sub>**
