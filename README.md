@@ -12,9 +12,9 @@
 
 + [site domain](_config.yml)
 
-+ [presentation](The Effects of Redlining on the Black Community of Portland (2).pptx)
++ [presentation](presentation.pptx)
 
-+
+
 
 ## Project-level Basic Information - Introduction 
 
