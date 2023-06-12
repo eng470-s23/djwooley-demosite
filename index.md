@@ -10,7 +10,12 @@ For this project, I am interested in exploring the long lasting impacts of redli
  
 Redlining is defined as a discriminatory practice purposely denying services and loans to individuals from a neighborhood classified as "hazardous" for investment. These neighborhoods have a significant amount of racial and ethnic minorities and low income residents. 
 
+Once viewing the map below, there would be colored coded zones. City officials across the country used these colors to zone neighborhoods to determine their level, or grade, of desirability:
+
+*<code style="color : green">Green Zones</code>
+
 [Check out the New Deal Era Redlining Map of Portland. (courtesy of the University of Richmond's Digital Scholarship Lab](https://dsl.richmond.edu/panorama/redlining/#loc=12/45.521/-122.729&city=portland-or)
+
 
 Redlining has been directly linked to the racial wealth gap that is relevant today, along with a plethora of other racial economic disparities. Some redlined neighborhoods have done good for themselves by creating their own loan companies. However, food insecurity and heat islands, two factors of enivonmental injustice, still exist in all of these communities. While looking through this site and the research I have gathered, I would like my audience to think about their own neighborhoods, and if any of these topics appear.  
 
