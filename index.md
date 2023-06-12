@@ -12,7 +12,7 @@ Redlining is defined as a discriminatory practice purposely denying services and
 
 Once viewing the map below, there would be colored coded zones. City officials across the country used these colors to zone neighborhoods to determine their level, or grade, of desirability:
 
-*<code style="color : green">Green Zones</code>
+$${\color{green}Green \space Zones}$$
 
 [Check out the New Deal Era Redlining Map of Portland. (courtesy of the University of Richmond's Digital Scholarship Lab](https://dsl.richmond.edu/panorama/redlining/#loc=12/45.521/-122.729&city=portland-or)
 
