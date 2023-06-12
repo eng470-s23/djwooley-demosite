@@ -3,7 +3,7 @@
 ## Project-level Basic Information - Introduction 
 
 1. Project Name: The Effects of Redlining on the Black Community 
-2. Project description/abstract/keywords
+2. [Abstract](https://github.com/eng470-s23/djwooley-demosite/blob/main/white-paper.md#abstract)
 3. Dates of Data Collection: 2023/04/01-2023/06/09
 4. Author: DJ Wooley
 
