@@ -33,3 +33,5 @@ Gartland Mummery, Lisa. "Understanding and Mitigting Heat in Urban Areas." Taylo
 Smith, Greta. "Congenial Neighbors: Restrictive Convenants and Residential Segregation in Portland, Oregon." Oregon Historical Society, 2018
 
 Williams, Kale. "Historically racist housing policies excaberating climate change effects in low-income Portland neighborhoods." The Oregnian, 2020
+
+Voelkel, J., and V Shandas, 2017. Towards Systematic Prediction of Urban Heat Islands: Grounding measurements, assessing modeling techniques. Climate 5(2): 41.
