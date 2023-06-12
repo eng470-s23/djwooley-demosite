@@ -1,7 +1,7 @@
 
 
-- My research topic is: Tracking movement of Black people in Oregon post Civil War, redlining, and now during environmental injustice. 
-- My research question is: How have laws during the post civil era, redlining, and environmental injustice impacted the way that Black people move in the state of Oregon? Is redlining the reason why Black people are experiencing environmental injustice?
+- My research topic is: The impacts that redlining has had on the Black community in Portland
+- My research question is: Has redlining and other racially controlled movement of Black people in Oregon contributed to the environmental injustice that this community of people experience today?
 - I expect to work with the following *materials*: I plan to gather a collection of research and studies that have tracked the movement of Black people since the post civil war era and where Black people were placed during redlining in Oregon. I plan to combine these materials in order to understand the displacement of Black indivduals in Oregon, and if this displacement is the reason why Black people in this state are placed in areas with bad air quality because of factories/industries that contribute to climate change and harming the surrounding environment.
 - I plan to *process* these materials by: These materials will be processed by reading and anazlyzing their content, and pulling out important information that contributes to my research question.
 - I plan to *present* these materials by: My goal is to present these materials by using an interactive map that follows the three big moments of movement I want to explore (post civil war era, redlining, and now). For the now part of the map I also plan to use data visualization in order to show the disproportionate amount of Black people living near harmful industries or environments harmed by pre-exisiting industries. 
@@ -18,12 +18,18 @@
 ## bibliography
 
 1. Brown, DeNeen. “When Portland Banned Blacks: Oregon's Shameful History as an 'All-White' State.” The Washington Post, WP Company, 28 Oct. 2021, https://www.washingtonpost.com/news/retropolis/wp/2017/06/07/when-portland-banned-blacks-oregons-shameful-history-as-an-all-white-state/. 
+
 2. Nokes, Greg. “Black Exclusion Laws in Oregon.” The Oregon Encyclopedia, https://www.oregonencyclopedia.org/articles/exclusion_laws/#.ZFV7f-zMKw1. 
+
 3. Taylor, Quintard. “Slaves and Free Men: Blacks in the Oregon Country, 1840-1860.” Oregon Historical Quarterly , 1982. 
-4. source #4
-5. source #5
-6. source #6
-7. source #7
+
+4. Voelkel, J., D Hellman, R Sakuma, and V Shandas, 2018. Assessing Vulnerability to Urban Heat: A Study of Disproportionate Heat Exposure and Access to Refuge by Socio-Demographic Status in Portland, Oregon. International Journal of Environmental Research and Public Health, 15(4), 640.
+
+5. Voelkel, J., and V Shandas, 2017. Towards Systematic Prediction of Urban Heat Islands: Grounding measurements, assessing modeling techniques. Climate 5(2): 41.
+
+6. Gartland Mummery, Lisa. "Understanding and Mitigting Heat in Urban Areas." Taylor and Francis, 2008. 
+
+8. Smith, Greta. "Congenial Neighbors: Restrictive Convenants and Residential Segregation in Portland, Oregon." Oregon Historical Society, 2018
 
 ## reading plan
 - Reading research can be very hard. The language can be very confusing and hard to understand. With that being said, I plan to read the more longer book/peer-reviewed articles first so that I am able to make in depth annotations. This will allow me to ask questions and do side research (if needed) on related topics I do not know about. 
