@@ -1,5 +1,21 @@
 # README
 
++ [License](license.md)
+
++ [project log](project-log.md)
+
++ [data management](data-management.md)
+
++ [check out the site](index.md)
+
++ [abstract and goals](white-paper.md)
+
++ [site domain](_config.yml)
+
++ [presentation](The Effects of Redlining on the Black Community of Portland (2).pptx)
+
++
+
 ## Project-level Basic Information - Introduction 
 
 1. Project Name: The Effects of Redlining on the Black Community 
