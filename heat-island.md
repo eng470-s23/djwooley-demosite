@@ -1,2 +1,2 @@
-
-In 2018, the school of Urban Studies and Planning conducted a study after Portland experienced a heat wave. The researchers were interested in finding out which neighborhoods in the city disproportionality experienced the heat wave. 
+### Heat Islands in Portland
+In 2018, the school of Urban Studies and Planning at Portland State University conducted a study after Portland experienced a heat wave. The researchers were interested in finding out which neighborhoods in the city disproportionality experienced the heat wave. The researchers at PSU found that [the neighborhoods that experienced the heat wave the worst were those made up of working class minorites](https://www.mdpi.com/1660-4601/15/4/640/htm?h=1)
