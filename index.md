@@ -4,7 +4,7 @@
 
 For this project, I am interested in exploring the long lasting impacts of redlining on the Black community in Portland. With that being said, the content of this project may be too much for some people that are currently experiencing the effects of environmental racism. In no way is this project meant to harm these indivduals. The purpose of this project is to raise more awareness to these issues in order for them to be fixed. 
   
-[about this project](white-paper.md)   |  [the process](project-log.md)  |  [presentation](The Effects of Redlining on the Black Community of Portland.pdf)   |  [data management](data-management.md)   | [ackowledgements](https://github.com/eng470-s23/djwooley-demosite#credits-and-acknowledgments)  
+[about this project](white-paper.md)   |  [the process](project-log.md)  |  [presentation](The Effects of Redlining on the Black Community of Portland (2).pptx)  |  [data management](data-management.md)   | [ackowledgements](https://github.com/eng470-s23/djwooley-demosite#credits-and-acknowledgments)  
  
 ## What is Redlining? 
  
