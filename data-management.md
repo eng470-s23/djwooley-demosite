@@ -1,5 +1,3 @@
-# about this file
-Based on the [UO library research guide on data management](https://researchguides.uoregon.edu/data-management) and UO's [Basic Accessibility Testing guidance](https://digitalaccessibility.uoregon.edu/assessment/basictesting).
 
 # expected data and formats
 *Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, [use non-proprietary formats](https://researchguides.uoregon.edu/data-management/fileformats) or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
