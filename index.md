@@ -24,3 +24,26 @@ A food desert is classified as an area where the residents have limited access t
 
 A heat island is an extreme urban heat event that occurs when an area has no natural shading to deflect the heat from the sun. These areas have little to no trees to provide shading or grass which helps cool the area down. This leaves the asphalt covered roads and buildings made from materials that do not deflect heat exposed to the sun. Typically, heat islands are in areas where the population identifies as low income and Black or Brown. Scientists and urban planners have known about heat islands since the 19th century. 
 **<sub>click the healdline to jump to data on heat islands in Portland</sub>**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=122uK8kVlHLCrYgbxEeIkNPO8ktSdPJSe_ISod_8kImA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+
+
+
+I created this timeline to help show how these issues came about after a long process of deliberately excluding Black people and other people of color from prospering in the state of Oregon. Exlusion laws were created to keep racial and ethnic minorities out of the state, but smaller laws and flat out racism controlled where these groups of people were allowed to go. During the exlusionary era of the state, there were also a series of laws that prohibited Black people from creating contracts or freely buying property. Then, Black people and other people of color were discriminated against when they were allowed to buy property via racially restrictive covenants. These covenants, which are still existant in some deeds today, prohibited the property from being sold to a non-white person. The restritions on where they were allowed to live forced Black and Brown people into neighborhoods that would be zoned as red or yellow and poorly invested in for decades. The poor investments in these neighborhoods are why the residents living there experience food deserts and extreme heat waves.
